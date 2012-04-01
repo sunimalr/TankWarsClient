@@ -1,0 +1,7 @@
+C:\Users\User\TankWars\TankWars\trunk\TankWars\TankWarsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sm\TankWars\TankWars\trunk\TankWars\TankWarsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\sm\TankWars\TankWars\trunk\TankWars\TankWarsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Game\TankWars\trunk\TankWars\TankWarsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Academic\Semester 4\Programming Challenge II\Game\TankWars\TankWars\TankWarsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Academic\Semester 4\Programming Challenge II\Game\TankWars\tanks111\trunk\TankWars\TankWarsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWarsContent\obj\x86\Debug\ResolveAssemblyReference.cache

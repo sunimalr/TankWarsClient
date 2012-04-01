@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\spriteSheet.png</Source>
+      <Name>Textures\spriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWars\bin\x86\Debug\Content\Textures\spriteSheet.xnb</Output>
+      <Time>2011-12-13T22:41:12.5238757+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bullet.png</Source>
+      <Name>Textures\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWars\bin\x86\Debug\Content\Textures\bullet.xnb</Output>
+      <Time>2011-12-16T00:08:15.5014174+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\explosion.png</Source>
+      <Name>Textures\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWars\bin\x86\Debug\Content\Textures\explosion.xnb</Output>
+      <Time>2011-12-16T00:08:15.4924169+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\background.png</Source>
+      <Name>Textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWars\bin\x86\Debug\Content\Textures\background.xnb</Output>
+      <Time>2011-12-16T22:56:31.6393503+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles.spritefont</Source>
+      <Name>Fonts\Pericles</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWars\bin\x86\Debug\Content\Fonts\Pericles.xnb</Output>
+      <Time>2011-12-16T22:56:31.6793526+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles18.spritefont</Source>
+      <Name>Fonts\Pericles18</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWars\bin\x86\Debug\Content\Fonts\Pericles18.xnb</Output>
+      <Time>2011-12-16T22:56:31.6833528+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWarsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWars\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWarsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\Academic\Semester 4\Programming Challenge II\Game Backup 7 - 17.12.11\TankWars\tanks111\trunk\TankWars\TankWars\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-28T10:42:08.8617603+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
